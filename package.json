@@ -1,0 +1,8 @@
+{
+  "name": "puesto-vivo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-strip-types --test test/pedidos.test.ts"
+  }
+}
